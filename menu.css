@@ -1,0 +1,26 @@
+body {
+  background-image:      url(https://cdn.pixabay.com/photo/2016/11/09/16/24/virus-1812092__340.jpg);
+  font-family: sans-serif;
+  background-repeat:no-repeat;
+  background-size: 100%;
+  top-margin: 10px;
+}
+
+h1{
+  color: pink;
+  font-family:impact;
+  text-align: right;
+  text-decoration:overline underline;
+}
+h2 {
+  text-align: right;
+  color:pink;
+  
+}
+button {
+  height: 50px;
+  width: 100px;
+  position:relative;
+  background-color: pink;
+ 
+}
